@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Paul Morvilliers
 
-<!--
-**paulpolo19/paulpolo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BUT MMI (Elbeuf / Rouen)  
+🎥 Audiovisuel & communication digitale  
+🎮 VR / Unity • Web • Création de contenu  
+📍 Rouen, France
 
-Here are some ideas to get you started:
+## 🚀 À propos
+Je crée des projets mêlant développement web, audiovisuel et expériences interactives (VR).  
+J’aime construire des projets complets : conception, production, mise en ligne et communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Compétences
+- Web : HTML, CSS, JavaScript, PHP, WordPress  
+- VR / Game : Unity (C#), level design, Meta Quest  
+- Audiovisuel : Premiere Pro, After Effects, Blender  
+- Communication : storytelling, réseaux sociaux, brand content
+
+## ⭐ Projets
+- **Hubble (VR / Unity)** — jeu VR narratif + level design + com  
+- **Woven** — app de jumelage bénévoles / associations  
+- **Photographie sportive** — hockey, badminton (Dragons de Rouen…)
+
+## 📫 Contact
+- LinkedIn : (ton lien)
+- Portfolio : (ton lien)
+- Mail : (ton mail pro)
